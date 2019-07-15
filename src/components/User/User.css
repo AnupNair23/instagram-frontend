@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    padding-left: 3%;
+    cursor: pointer;
+    color: red;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.Nav-User {
+    width: 200px;
+}
+
+.Nav-User>span {
+    font-size: 15px;
+}
+
+.Nav-User>a {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid black
+}
